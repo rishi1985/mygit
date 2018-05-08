@@ -1,13 +1,13 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>@groupId@</groupId>
-  <artifactId>@artifactId@</artifactId>
-  <version>@version@</version>
+  <groupId>com.test</groupId>
+  <artifactId>Test_Project</artifactId>
+  <version>1.0</version>
   <packaging>jar</packaging>
 
-  <name>@ant.project.name@</name>
-  <description>@description@</description>
-  <url>@project.url@</url>
+  <name>Test_project</name>
+  <description>testing</description>
+  <url></url>
 
   <licenses>
     <license>
@@ -19,15 +19,15 @@
 
   <scm>
     <connection>
-      scm:git:@project.repo.url@
+      scm:git:https://github.com/rishi1985/mygit.git
     </connection>
-    <url>@project.scm.url@</url>
+    <url>https://github.com/rishi1985/mygit.git</url>
   </scm>
 
   <developers>
     <developer>
       <name>Christopher Wellons</name>
-      <email>mosquitopsu@gmail.com</email>
+      <email>rishid2@gmail.com</email>
       <url>http://nullprogram.com</url>
       <timezone>-5</timezone>
     </developer>
