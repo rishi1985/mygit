@@ -9,14 +9,6 @@
   <description>testing</description>
   <url></url>
 
-  <licenses>
-    <license>
-      <name>The Unlicense</name>
-      <url>http://unlicense.org/UNLICENSE</url>
-      <distribution>repo</distribution>
-    </license>
-  </licenses>
-
   <scm>
     <connection>
       scm:git:https://github.com/rishi1985/mygit.git
