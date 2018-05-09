@@ -16,6 +16,7 @@
     <url>https://github.com/rishi1985/mygit.git</url>
   </scm>
   
+  <repositories>
    <repository>
    <id>central</id>
    <name>Maven Repository Switchboard</name>
@@ -25,6 +26,7 @@
      <enabled>false</enabled>
    </snapshots>
  </repository>
+    </repositories>
 
   <developers>
     <developer>
